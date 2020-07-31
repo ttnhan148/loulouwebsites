@@ -1811,3 +1811,7 @@ h1, h2, h3, h4, h5,
         font-size: 2rem; } }
     .product-item-2 .product-title-wrap h2 a {
       color: #000; }
+.zalo-chat-widget{  
+    bottom: 90px!important;  
+    right: 20px!important;  
+}
